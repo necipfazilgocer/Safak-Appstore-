@@ -14,7 +14,8 @@ Data Storage
 
 -NSUserDefaults
 
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-21 at 12 01 57](https://github.com/necipfazilgocer/Safak-Appstore-/assets/114177524/42517c5b-7367-4246-b9b2-17d2fc0f83d1)
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-21 at 12 01 44](https://github.com/necipfazilgocer/Safak-Appstore-/assets/114177524/2f975f2e-7696-4dd8-b57f-d5393e92dfd7)
+<img width="466" alt="Ekran Resmi 2023-06-13 17 17 20" src="https://github.com/necipfazilgocer/Safak-Appstore-/assets/114177524/bfc4e88c-06c3-4330-8367-df683a034c27">
+<img width="466" alt="Ekran Resmi 2023-06-13 17 18 02" src="https://github.com/necipfazilgocer/Safak-Appstore-/assets/114177524/14780bad-1073-465f-b2ab-83a4434cb682">
+
 
 
