@@ -1,6 +1,6 @@
 # Safak-Appstore-
 Şafak sayar uygulaması
-https://apps.apple.com/tr/app/safak/id6449401633?l=tr
+Uygulama Linki:  https://apps.apple.com/tr/app/safak/id6449401633?l=tr
 
 Design Pattern
 
